@@ -11,5 +11,12 @@ All the tasks are based on web-dev using HTML, CSS, JS.
 - [@Adarsh-shukla](https://github.com/dash-09)
 
 ## List of Tasks
--
-## preview Images 
+- Integrate a captcha inside a existing website.
+- Make a Multi page survey form that saves the state and send the input via mail.
+- Make wordpress site. 
+
+## Task 1: integrated captcha
+✔️ create a form, deployed the form at vercel . And integrated captcha using gcaptcha.
+[Click here for demo](https://captcha-integrate.vercel.app/)
+
+![scc1](https://github.com/dash-09/CodeAlpha/assets/74849401/8123c09a-6abf-466c-b445-6319e990722c)
