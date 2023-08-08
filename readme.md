@@ -22,7 +22,7 @@ All the tasks are based on web-dev using HTML, CSS, JS.
 ![scc1](https://github.com/dash-09/CodeAlpha/assets/74849401/8123c09a-6abf-466c-b445-6319e990722c)
 <br>
 ## Task 2: Wordpress Site
->✔️ created wordpress site. Made account on wordpress and hosted own site.
+> ✔️ created wordpress site. Made account on wordpress and hosted own site.
 [Click here for demo](https://vidi81.wordpress.com/)
 <br>
 ![scc11](https://github.com/dash-09/CodeAlpha/assets/74849401/c10905d5-2547-494d-9629-793ac5609c41)
