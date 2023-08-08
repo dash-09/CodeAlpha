@@ -18,13 +18,13 @@ All the tasks are based on web-dev using HTML, CSS, JS.
 ## Task 1: integrated captcha
 - ✔️ create a form, deployed the form at vercel(this form will work as a site) . And integrated captcha using gcaptcha.
 - [Click here for demo](https://captcha-integrate.vercel.app/)
-<br>
+ 
 ![scc1](https://github.com/dash-09/CodeAlpha/assets/74849401/8123c09a-6abf-466c-b445-6319e990722c)
-<br>
+<br/>
 ## Task 2: Wordpress Site
 - ✔️ created wordpress site. Made account on wordpress and hosted own site.
 - [Click here for demo](https://vidi81.wordpress.com/)
-<br>
+ 
 ![scc11](https://github.com/dash-09/CodeAlpha/assets/74849401/c10905d5-2547-494d-9629-793ac5609c41)
 
 
