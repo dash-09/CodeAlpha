@@ -27,7 +27,8 @@ All the tasks are based on web-dev using HTML, CSS, JS.
  
 ![scc11](https://github.com/dash-09/CodeAlpha/assets/74849401/c10905d5-2547-494d-9629-793ac5609c41)
 
-
 <br>
+
 ## Task 3: Multipages Survey Form
-❎ work is going on .
+❎ work is going on .  Made this survey form using react . 
+- It saves the whole states from all the pages and submit happens via email. 
