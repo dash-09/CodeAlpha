@@ -1,4 +1,4 @@
-# CodeAlpha
+## CodeAlpha Internship
 This is repo of Internship which I got from the Code-Alpha . According to the rule 3 tasks are given and you have to do all the tasks to complete the internship.
 All the tasks are based on web-dev using HTML, CSS, JS. 
 ## About 
@@ -30,5 +30,11 @@ All the tasks are based on web-dev using HTML, CSS, JS.
 <br>
 
 ## Task 3: Multipages Survey Form
-❎ work is going on .  Made this survey form using react . 
-- It saves the whole states from all the pages and submit happens via email. 
+- It saves the whole states from all the pages and submit happens via email.
+- [Click here to See the demo ](https://code-alpha-survey-form.vercel.app/)
+ 
+<br/> 
+<br/> 
+
+![kscs1](https://github.com/dash-09/CodeAlpha/assets/74849401/55db7ea5-ddda-4fa4-ad95-d2275492da03)
+ 
