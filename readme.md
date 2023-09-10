@@ -38,3 +38,6 @@ All the tasks are based on web-dev using HTML, CSS, JS.
 
 ![kscs1](https://github.com/dash-09/CodeAlpha/assets/74849401/55db7ea5-ddda-4fa4-ad95-d2275492da03)
  
+## COMPLETION CERTIFICATE OF INTERNSHIP
+
+![Code Alpha Internship completion certificate](https://github.com/dash-09/CodeAlpha/assets/74849401/ebc0676e-9a80-48ea-b142-54d08f1ad069)
